@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/8132e1e3-6f78-4153-99d7-4d9a37622cc3/thumbnail" >
+</p>
 
 <!--
 **lousilver/lousilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
